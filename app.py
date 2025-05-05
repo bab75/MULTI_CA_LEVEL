@@ -442,7 +442,7 @@ def main():
     st.subheader("Sample Student Data Preview")
     
     try:
-        sample_df = sample_data(10)
+        sample_df = sample_data(5)
         st.dataframe(sample_df, use_container_width=True)
     except Exception as e:
         st.error(f"Error generating sample data: {str(e)}")
