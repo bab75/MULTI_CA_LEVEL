@@ -305,7 +305,7 @@ def main():
                 <h1 class="main-header-title">Chronic Absenteeism Prediction</h1>
                 <p class="main-header-subtitle">Track, Predict, and Intervene - A Complete Solution for Educational Success</p>
                 <div class="nav-buttons">
-                    <a href="/1_Data_Preparation" class="nav-button">Data Preparation</a>
+                    <a href="/1_Data_Preparation" class="nav-button">📝Data Preparation</a>
                     <a href="/2_Model_Training" class="nav-button">Train Models</a>
                     <a href="/3_Predictions" class="nav-button">Predictions</a>
                     <a href="/4_Advanced_Analysis" class="nav-button">Advanced Analysis</a>
